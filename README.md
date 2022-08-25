@@ -11,4 +11,4 @@ Currently not started, still building the plan and blueprint
 - wine recommender based on ratings and your taste profile.
 - webscrape for more wine discovery
 - taste profile for each wine
-store 
+- add wine to the system manually

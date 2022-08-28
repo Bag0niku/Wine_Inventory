@@ -3,6 +3,7 @@ Currently not started, still building the plan and blueprint
 
 ## Resources:
 - build in Python and MongoDB
+- use Kaggles wine Data to get started. 
 
 ## Features planned:
 - rate wine and comment about wine
